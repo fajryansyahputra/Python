@@ -41,4 +41,4 @@ print("Hello World")
 print("Hallo Dunia")
 ```
 Yeay, Sekarang kamu sudah mulai memahami nih.
-[Lanjut Ke Materi Selanjutnya ▶ [tipe data]](../02_tipe_data)
+[Lanjut Ke Materi Selanjutnya ▶ [Tipe Data]](../02-Tipe-Data)
