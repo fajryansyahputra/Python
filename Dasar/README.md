@@ -34,7 +34,7 @@ Untuk kamu yang ingin belajar bahasa pemrograman python, berikut urutan materi d
 23. [Kalkulator Dengan Fungsi](23-kalkulator-Dengan-Fungsi)
 24. [Pencetakan Tipe Data](24-Casting-Tipe-Data)
 
-## Install python pada perangkat
+## Install Python pada perangkat
 
 **Windows**
 
@@ -46,3 +46,6 @@ Untuk kamu yang ingin belajar bahasa pemrograman python, berikut urutan materi d
     
     python3 --version
     
+**Android**
+
+  Untuk di Android kalian cukup install Pydroid 3 di Play Store
