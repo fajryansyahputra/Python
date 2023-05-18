@@ -1,3 +1,4 @@
+## 🎉 Selamat Datang Di Bahasa Python 🎉
 <p align="center">
 <br>
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*m0H6-tUbW6grMlezlb52yw.png" width=600 height=250> <br>
@@ -5,37 +6,37 @@
 
 Haii, Repositori ini berisi kumpulan berbagai macam _source code_ struktur data, algoritma, analisis matematika, dan sebagainya yang diimplementasikan dengan menggunakan bahasa pemrograman Python.
 
-## 🎉 Selamat Datang Di Bahasa Python 🎉
+## 📖 Pengertian Bahasa Python 📖 ##
 
-Python dibuat dan dikembangkan oleh Guido Van Rossum, programmer yang berasal dari Belanda. Pemilihan nama python itu sendiri diambil dari sebuah acara televisi yang lumayan terkenal yang bernama **Moth Python Flying Circus** yang merupakan acara sirkus favorit dari Guido.
+_Python_ dibuat dan dikembangkan oleh Guido Van Rossum, programmer yang berasal dari Belanda. Pemilihan nama python itu sendiri diambil dari sebuah acara televisi yang lumayan terkenal yang bernama **Moth Python Flying Circus** yang merupakan acara sirkus favorit dari Guido.
 
 Python adalah bahasa pemrograman multi paradigma, pemrogramaan berorientasi objek dan permograman terstruktur juga didukung penuh, dan banyak fiturnya mendukung pemrograman fungsional.
 
-Kelebihan diatara python antara lain
+Kelebihan dari bahasa _Python_:
 
-- Mudah digunakan untuk menulis di perangkat lunak terbaru
-- Mudah untuk diajarkan
-- Mendukung **IoT** (**Internet of Things**)
-- Mudah dipahami
-- Serta mudah didapatkan, karena mudah diinstal, python juga termasuk **multiplatform**
+- Mudah digunakan untuk menulis di perangkat lunak terbaru.
+- Mudah untuk diajarkan.
+- Mendukung **IoT** (**Internet of Things**).
+- Mudah dipahami.
+- Serta mudah didapatkan, karena mudah diinstal, python juga termasuk **multiplatform**.
 
-Contoh implementasi dari bahasa pemrograman python adalah
+Contoh implementasi dari bahasa pemrograman python adalah:
 
-- Komputasi ilmiah dan numerik contohnya seperti scipy
-- Aplikasi bisnis seperti tryton
-- Pembuatan game seperti battlefield 2
-- Pengembangan web seperti django atau flask (library)
-- Pengembangan dari situs web dan layanan sperti dropbox, buzfeed dan uber
+- Komputasi ilmiah dan numerik contohnya seperti _scipy_.
+- Aplikasi bisnis seperti _tryton_.
+- Pembuatan game seperti _battlefield 2_.
+- Pengembangan web seperti _django_ atau _flask (library)_.
+- Pengembangan dari situs web dan layanan seperti _dropbox, buzfeed_ dan _uber_.
 
-### Baru Belajar? Mulai dari [sini](Basic) 🌟
+### Baru Belajar? Mulai dari [sini](Dasar) 🌟
 
-Untuk menggunakan repositori dengan maksimal, kalian perlu belajar programming dasar dahulu. Silahkan ikuti alur belajar berikut untuk mempelajari dasar - dasar pemograman langsung menggunakan Python
+Untuk menggunakan repositori dengan maksimal, kalian perlu belajar _programming_ dasar dahulu. Silahkan ikuti alur belajar berikut untuk mempelajari dasar - dasar pemrograman langsung menggunakan _Python_
 
 | Langkah |              Topik               |                                  Target Pembelajaran                                  |            Materi Rujukan             |
 | :-----: | :------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------: |
-|   01    | Introduksi Pemograman dan Python | Memahami apa itu membuat program dan apa peran Python dalam proses pembuatan program  |    [Materi](Basic/01_introduction)    |
-|   02    |            Tipe data             |                              Memahami apa itu tipe data                               |     [Materi](Basic/02_tipe_data)      |
-|   03    |             Variabel             |                               Memahami apa itu variabel                               |      [Materi](Basic/03_variable)      |
+|   01    | Introduksi Pemograman dan Python | Memahami apa itu membuat program dan apa peran Python dalam proses pembuatan program  |    [Materi](Dasar/01-Pengenalan)    |
+|   02    |            Tipe Data             |                              Memahami apa itu tipe data                               |     [Materi](Dasar/02-Tipe-Data)      |
+|   03    |             Variabel             |                               Memahami apa itu variabel                               |      [Materi](Dasar/03-Variable)      |
 |   04    |             Operasi              | Dapat melakukan operasi sederhana menggunakan program yang ditulis menggunakan Python |      [Materi](Basic/04_operator)      |
 |   05    |              String              |                                    Memahami String                                    |       [Materi](Basic/05_string)       |
 |   06    |         Input dan Output         |                        Memahami cara mengambil input dari user                        |    [Materi](Basic/06_input_output)    |
