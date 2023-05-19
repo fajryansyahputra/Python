@@ -9,51 +9,59 @@
 
 # type() digunakan untuk memeriksa tipe data pada variabel
 
-# contoh tipe data str
-teks_string = "Halo dunia!"
-print(teks_string)
-print(type(teks_string))
+# 01. Tipe Text
+# Contoh Tipe Data string (teks)
+string_text = "Hallo Dunia!"
+print(string_text)
+print(type(string_text))
 print()  # untuk menambahkan baris baru
 
-# contoh tipe data integer
-bilangan_integer = 2
-print(bilangan_integer)
-print(type(bilangan_integer))
+# 02. Tipe Angka
+# Contoh Tipe Data integer (bilangan bulat)
+integer_number = 2 # angka bilangan bulat (0 1 2 3 4 5 6 7 8 9) 
+print(integer_number)
+print(type(integer_number))
 print()  # untuk menambahkan baris baru
 
-# contoh tipe data float
-bilangan_desimal = 3.13
-print(bilangan_desimal)
-print(type(bilangan_desimal))
+# Contoh Tipe Data float (bilangan desimal)
+float_number = 3.13
+print(float_number)
+print(type(float_number))
 print()  # untuk menambahkan baris baru
 
-# contoh tipe data dari complex
-bilangan_complex_1 = complex(1.5)
-bilangan_complex_2 = complex(2j)
-print(bilangan_complex_1)
-print(bilangan_complex_2)
-print(type(bilangan_complex_1))
-print(type(bilangan_complex_2))
+# Contoh Tipe Data complex (gabunagan)
+complex_number_1 = complex(1.5)
+complex_number_2 = complex(2j)
+print(complex_number_1)
+print(complex_number_2)
+print(type(complex_number_1))
+print(type(complex_number_2))
 print()  # untuk menambahkan baris baru
 
-# contoh tipe data dari list
-nama_siswa = ["andi", "buzz", "wheezy", "army"]
-print(nama_siswa)
+# 03. Tipe Data Majemuk
+# Pake bahasa Indonesia aja coy, biar gampang :v
+# Contoh Tipe Data list (daftar)
+nama_siswa = ["Andi", "Budi", "Celi", "Doni"]
+print(nama_siswa) # urutan dimulai dari 0 bukan 1
+print(nama_siswa[0])
 print(nama_siswa[1])
 print(nama_siswa[2])
+print(nama_siswa[3])
 print(type(nama_siswa))
 print()  # untuk menambahkan baris baru
 
 # contoh tipe data dari tuple
-mahasiswa = ("suryadi", "sukoco", "sukijan", "sumarmi")
+mahasiswa = ("Nana", "Nini", "Nunu", "Nono")
 print(mahasiswa)
+print(mahasiswa[0])
 print(mahasiswa[1])
-print(mahasiswa[2])
+print(nama_siswa[2])
+print(nama_siswa[3])
 print(type(mahasiswa))
 print()  # untuk menambahkan baris baru
 
 # contoh tipe data dari set
-merk_mobil = {"ferrari", "bmw", "toyota"}
+merk_mobil = {"Nissan", "BMW", "Toyota"}
 print(merk_mobil)
 # jika code dibawah dijalankan akan error karena
 # tipe data set unsubcriptable (tidak berurutan)
@@ -65,15 +73,15 @@ print(type(merk_mobil))
 print()  # untuk menambahkan baris baru
 
 # contoh tipe data dari frozzenset
-nama_desa = frozenset({"getasrejo", "karangmalang", "siti"})
+nama_desa = frozenset({"Pajajaran", "Majapahit", "Sriwijaya"})
 print(nama_desa)
 print(type(nama_desa))
 print()  # untuk menambahkan baris baru
 
 # contoh tipe data dari dict
-detail_mobil = {"merk": "ferrari", "asal": "italia"}
+detail_mobil = {"merek": "Toyota", "asal": "Jepang"}
 print(detail_mobil)
-print(detail_mobil["merk"])
+print(detail_mobil["merek"])
 print(detail_mobil["asal"])
 print(type(detail_mobil))
 print()  # untuk menambahkan baris baru
