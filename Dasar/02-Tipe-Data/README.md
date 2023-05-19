@@ -1,4 +1,4 @@
-<a href="../01-Pengenalan">[Pengenalan] ◀ Materi Sebelumnya</a>
+<a href="../01-Pengenalan"> [Pengenalan] ◀ Materi Sebelumnya</a>
 
 <center>
 
@@ -159,13 +159,11 @@ Beberapa tipe data dalam Python:
 <a id="15"><h2>Video penjelasan tentang tipe data</h2></a>
 
 <center>
-
-[![sdfssadasd](https://img.youtube.com/vi/b3X0CH98Y9g/0.jpg)](https://youtu.be/b3X0CH98Y9g?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY)
-
+Coming Soon...
 </center>
 
 <a id="16"><h2>Praktikum</h2></a>
 
-Klik link ini untuk mencoba kode python dari pembahasan kali ini. [Source code](../02-Tipe-Data/tipe-data.py)
+Klik link ini untuk mencoba kode python dari pembahasan kali ini. [Source code](../02-Tipe-Data/data_type.py)
 
-<a href="../03-Variabel">Materi Selanjutnya ▶ [Variabel]</a>
+<a href="../03_Variabel"> Materi Selanjutnya ▶ [Variabel]</a>
