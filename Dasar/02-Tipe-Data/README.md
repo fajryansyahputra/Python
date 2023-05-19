@@ -42,8 +42,8 @@ Beberapa tipe data dalam Python:
     Merupakan salah satu tipe data yang berupa string, berfungsi untuk menghasilkan tipe data string seperti huruf abjad atau simbol lain.
 
     ```python
-    nama_saya = "Budi"
-    email_saya = "budi-1140@gmail.com"
+    nama = "Andi"
+    email = "andi_1140@gmail.com"
     ```
 
 - Berupa angka
@@ -62,8 +62,8 @@ Beberapa tipe data dalam Python:
     Merupakan salah satu tipe numerik yang menghasilkan berupa bilangan pecahan, sangat berguna dalam menghasilkan nilai secara detail.
 
     ```python
-    nilai_saya = 95.281724
-    nilai_teman = 30.25912
+    nilai_saya = 98.765
+    nilai_teman = 89.100
     ```
 
   - <a id="6">`complex`</a>
@@ -71,8 +71,8 @@ Beberapa tipe data dalam Python:
     Merupakan salah satu tipe data numerik yang berfungsi menghasil sebuah angka complex, contoh angka complex bisa dilihat [di sini](https://id.wikipedia.org/wiki/Bilangan_kompleks).
 
     ```python
-    angka_kompleks_saya = complex(1.5)
-    angka_teman_saya = complex(2j)
+    angka_kompleks_saya = complex(1.2)
+    angka_kompleks_saya = complex(3a)
     ```
 
 - Berupa urutan (sekuensial)
@@ -82,8 +82,8 @@ Beberapa tipe data dalam Python:
     Tipe data list adalah tipe data koleksi yang berisi beberapa value yang terdapat dalam satu variabel. List menggunakan kurung kotak `[ ]`.
 
     ```python
-    nama_siswa = ['woody', 'buzz', 'andy']
-    nilai_siswa = [12, 13, 14]
+    nama_siswa = ['Andi', 'Budi', 'Celi']
+    nilai_siswa = [80, 85, 90]
     ```
 
   - <a id="8">`tuple`</a>
@@ -94,8 +94,8 @@ Beberapa tipe data dalam Python:
     - tipe data tuple menggunakan tutup kurung biasa `()`.
 
     ```python
-    nama_siswa = ('buzz', 'andy', 'woody')
-    nilai = (12, 13, 14)
+    nama_siswa = ('Andi', 'Budi', 'Celi')
+    nilai = (80, 85, 90)
     ```
 
   - <a id="9">`set`</a>
@@ -103,8 +103,8 @@ Beberapa tipe data dalam Python:
     Tipe data set adalah tipe data koleksi yang elemennya dapat dirubah, tidak terurut, dan bersifat unik. Sesuai dengan namanya, tipe data set memiliki operasi matematika himpunan seperti gabungan, irisan, selisih, dan lain-lain. Set menggunakan kurung kurawal `{}`.
 
     ```python
-    nama_siswa = {'buzz', 'andy', 'woody'}
-    nilai = {12, 13, 14}
+    nama_siswa = {'Andi', 'Budi', 'Celi'}
+    nilai = {80, 85, 90}
     ```
 
   - <a id="10">`frozenset`</a>
@@ -112,8 +112,8 @@ Beberapa tipe data dalam Python:
     Tipe data frozenset adalah tipe data koleksi yang mirip dengan set, yang membedakannya dengan set adalah elemen pada frozenset tidak dapat dirubah setelah frozenset dibuat.
 
     ```python
-    nama_siswa = frozenset(['woody', 'buzz', 'andy'])
-    nilai = frozenset([12, 13, 14])
+    nama_siswa = frozenset(['Andi', 'Budi', 'Celi'])
+    nilai = frozenset([80, 85, 90])
     ```
 
 - Berupa map (kata kunci, dictionary)
@@ -126,7 +126,11 @@ Beberapa tipe data dalam Python:
     hari = {
         "sen": "senin",
         "sel": "selasa",
-        "rab": "rabu"
+        "rab": "rabu",
+        "kam": "kamis",
+        "jum": "jumat",
+        "sab": "sabtu",
+        "min": "minggu"
     }
     ```
 
@@ -158,7 +162,7 @@ Beberapa tipe data dalam Python:
     angka_saya1 = memoryview(bytes(1212))
     ```
 
-<a id="15"><h2>Video penjelasan tentang tipe data</h2></a>
+<a id="15"><h2>Video Penjelasan</h2></a>
 
 <center>
 Coming Soon...
