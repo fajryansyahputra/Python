@@ -52,11 +52,11 @@ print()  # untuk menambahkan baris baru
 
 # contoh tipe data dari tuple
 mahasiswa = ("Nana", "Nini", "Nunu", "Nono")
-print(mahasiswa)
+print(mahasiswa) # urutan dimulai dari angka 0 bukan 1
 print(mahasiswa[0])
 print(mahasiswa[1])
-print(nama_siswa[2])
-print(nama_siswa[3])
+print(mahasiswa[2])
+print(mahasiswa[3])
 print(type(mahasiswa))
 print()  # untuk menambahkan baris baru
 
