@@ -3,7 +3,9 @@
 <center>
 
 # Tipe Data
-
+<p align="center">
+  <img src="https://edupala.com/wp-content/uploads/2022/07/python-variable-types.png?ezimgfmt=ng:webp/ngcb11">
+<p>
 </center>
 
 <a id="1"><h2>Daftar Isi</h2></a>
