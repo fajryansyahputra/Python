@@ -24,14 +24,14 @@ print(type(integer_number))
 print()  # untuk menambahkan baris baru
 
 # Contoh Tipe Data float (bilangan desimal)
-float_number = 3.13
+float_number = 1.23
 print(float_number)
 print(type(float_number))
 print()  # untuk menambahkan baris baru
 
 # Contoh Tipe Data complex (gabunagan)
 complex_number_1 = complex(1.5)
-complex_number_2 = complex(2j)
+complex_number_2 = complex(3j)
 print(complex_number_1)
 print(complex_number_2)
 print(type(complex_number_1))
@@ -102,3 +102,4 @@ print()  # untuk menambahkan baris baru
 angka_memoryview = memoryview(bytes(12))
 print(angka_memoryview)
 print(type(angka_memoryview))
+print()  # untuk menambahkan baris baru
