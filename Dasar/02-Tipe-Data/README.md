@@ -71,8 +71,8 @@ Beberapa tipe data dalam Python:
     Merupakan salah satu tipe data numerik yang berfungsi menghasil sebuah angka complex, contoh angka complex bisa dilihat [di sini](https://id.wikipedia.org/wiki/Bilangan_kompleks).
 
     ```python
-    angka_kompleks_saya = complex(1.2)
-    angka_kompleks_saya = complex(3a)
+    angka_kompleks_saya = complex(1.5)
+    angka_kompleks_saya = complex(3j)
     ```
 
 - Berupa urutan (sekuensial)
