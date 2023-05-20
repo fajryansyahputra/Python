@@ -1,7 +1,7 @@
 ## 🎉 Selamat Datang Di Bahasa Python 🎉
 <p align="center">
 <br>
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*m0H6-tUbW6grMlezlb52yw.png" width=600 height=250> <br>
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*m0H6-tUbW6grMlezlb52yw.png" width=300 height=150> <br>
 </p>
 
 Haii, Repositori ini berisi kumpulan berbagai macam _source code_ struktur data, algoritma, analisis matematika, dan sebagainya yang diimplementasikan dengan menggunakan bahasa pemrograman Python.
