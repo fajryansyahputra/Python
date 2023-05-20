@@ -172,4 +172,4 @@ Coming Soon...
 
 Klik link ini untuk mencoba kode python dari pembahasan kali ini. [Source code](../02-Tipe-Data/data_type.py)
 
-<a href="../03_Variabel"> Materi Selanjutnya ▶ [Variabel]</a>
+<a href="../03-Variabel"> Materi Selanjutnya ▶ [Variabel]</a>
